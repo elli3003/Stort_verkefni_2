@@ -23,6 +23,7 @@ nokkur vandamál eru en á síðuni eins og t.d. ef farið er í fullscreen og a
 ---
 
 index.html styles.css og scripts.js eru allar vinnandi saman og gera forsíðuna
+
 video.html styles_myndband.css og scripts_myndband.js eru allar að vinna saman við að byrta myndbandið og allt sem átti að vera á þeirri síðu
 
 ---
