@@ -1,0 +1,30 @@
+
+.flokkar {
+  border-bottom: 1px solid #eee;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.myndband {
+  display: inline-block;
+}
+
+body {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+img {
+  width: 500px;
+  padding: 5px;
+}
+.overlay {
+  position:absolute;
+  float:right;
+    width:40px;
+    min-height:20px;
+    background-color:rgba(0,0,0,0.5);
+    z-index:3;
+    vertical-align:top;
+    color: #eee;
+}

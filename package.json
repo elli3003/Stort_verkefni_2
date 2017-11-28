@@ -1,0 +1,23 @@
+{
+  "name": "stort_verkefni_2",
+  "version": "1.0.0",
+  "description": "Stórt verkefni 2 med myndbond",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elli3003/St-rt_verkefni_2.git"
+  },
+  "keywords": [
+    "Stórt",
+    "verkefni"
+  ],
+  "author": "Erlingur Örn Árnason; eoa20@hi.is",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elli3003/St-rt_verkefni_2/issues"
+  },
+  "homepage": "https://github.com/elli3003/St-rt_verkefni_2#readme"
+}
