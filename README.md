@@ -5,6 +5,23 @@ myndbandssíða
 
 skrár sem fylgja með eru eftir farandi:
 
+index.html
+video.html
+styles.css
+styles_myndband.css
+scripts.js
+scripts_myndband.js
+videos.JSON
+.eslintrc
+.babelrc
+.DS_Store
+.styleintrc
+package.json
+
+ennig eru möppurnar:
+
+img - hún innihaldur allar svg skrárnar sem þarf
+videos - hún inniheldur mydnir og myndbönd sem þurfti
 
 ---
 
